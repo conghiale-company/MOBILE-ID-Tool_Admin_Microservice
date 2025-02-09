@@ -1,0 +1,2 @@
+Manifest-version: 1.0
+org.toolMicroservices.Main-Class: org.toolMicroservices.Main

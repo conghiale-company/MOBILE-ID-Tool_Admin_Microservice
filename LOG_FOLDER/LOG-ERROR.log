@@ -1,0 +1,2 @@
+2025-01-09 11:24:17 ERROR controller.IdentityConnectorController - loadIdentityConnector:70 - java.sql.SQLSyntaxErrorException: (conn=6042) PROCEDURE IOT_TRUSTED_PAY_DEV.USP_IDENTITY_CONNECTOR_LIST does not exist
+2025-01-09 11:24:36 ERROR controller.IdentityConnectorController - loadIdentityConnector:70 - java.sql.SQLSyntaxErrorException: (conn=6043) PROCEDURE IOT_TRUSTED_PAY_DEV.USP_IDENTITY_CONNECTOR_LIST does not exist
